@@ -1,0 +1,2 @@
+# VARZZ-FLOATING-PANEL
+VARZZ Android panel
